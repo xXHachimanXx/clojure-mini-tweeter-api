@@ -1,1 +1,1 @@
-# clojure-mini-tweeter-api
+# clojure-mini-twitter-api
